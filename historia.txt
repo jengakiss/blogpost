@@ -8,4 +8,4 @@ en este proyecto hablaremos de esta historia
 usando git add ( . ) y despues revisar el git statut)
 
 al cambiar el nombre se creeo  archivo para evitar que tenga mil cosas escritas pero resulta que 
-no estaba haciendo bien las cosas.
+no estaba haciendo bien las cosas, y me estaba confundiendo mas.
