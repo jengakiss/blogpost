@@ -7,5 +7,5 @@ en este proyecto hablaremos de esta historia
 (es imporante que recurdes que si haces cualquier cambio debes volver a cofigurarlo
 usando git add ( . ) y despues revisar el git statut)
 
-cambie el nombre del archivo para evitar que tenga mil cosas escritas pero resulta que 
+al cambiar el nombre se creeo  archivo para evitar que tenga mil cosas escritas pero resulta que 
 no estaba haciendo bien las cosas.
