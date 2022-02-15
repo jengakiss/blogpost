@@ -1,0 +1,13 @@
+Esta es la historia de como mi futuro se acerca
+
+dentro de la programacion, tengo 36 años y estoy por comenzar mi vida
+
+en este proyecto hablaremos de esta historia
+
+(es imporante que recurdes que si haces cualquier cambio debes volver a cofigurarlo
+usando git add ( . ) y despues revisar el git statut)
+
+al cambiar el nombre se creeo  archivo para evitar que tenga mil cosas escritas pero resulta que 
+no estaba haciendo bien las cosas, y me estaba confundiendo mas.
+
+prueba2
