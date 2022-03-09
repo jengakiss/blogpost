@@ -6,6 +6,8 @@ en este proyecto hablaremos de esta historia
 
 master 1
 
+master 2
+
 (es imporante que recurdes que si haces cualquier cambio debes volver a cofigurarlo
 usando git add ( . ) y despues revisar el git statut)
 
