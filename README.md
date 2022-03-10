@@ -10,6 +10,8 @@ Es mi primer proyecto para aprender a usar github con la plataforma de platzi
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profsor
 - Las personalidades multilples de Freedy
+esto es para aprender a usar el cherry con git
+esto es imporate que lo comprenda
 
 Y como es de esperar todo este trabajo es para** entender y practicar **lo que estoy aprendiendo.
 
