@@ -11,6 +11,7 @@ Es mi primer proyecto para aprender a usar github con la plataforma de platzi
 - Trucos muy locos del profsor
 - Las personalidades multilples de Freedy
 - Ejercicios para entender el git cherry drop
+- segundo commit para entender el git cherry drop
  
 Y como es de esperar todo este trabajo es para** entender y practicar **lo que estoy aprendiendo.
 
